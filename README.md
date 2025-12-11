@@ -11,7 +11,7 @@ Examen de la unidad 4 y 5 de Patrones de diseño (Sistema educativo con módulos
 | **State** | **Comportamiento**                 | `IEstadoEstudiante`, `EstadoAprobado`, `EstadoEnRiesgo`, `EstadoReprobado`, `ValidacionDecorator`                                                        |
 | **Arquitectura en Capas**   | **Arquitectura en Capas** | `Program.cs` (Capa de Presentación), clases del dominio en `SistemaEducativo` (Negocio), `List<IEstudiante>` (Datos), `SistemaAntiguo` (Legacy/Externos) |
 
-### Doagrama UML
+### Diagrama UML
 
 ```mermaid
 classDiagram
